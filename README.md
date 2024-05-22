@@ -1,3 +1,1 @@
-J.P. Morgan Software Engineering Virtual Experience on Forage - October 2023
-
-Set up a local dev environment by downloading the necessary files, tools and dependencies. Fixed broken files in the repository to make web application output correctly. Used JPMorgan Chase’s open source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor
+In October 2023, I participated in the J.P. Morgan Software Engineering Virtual Experience on Forage. I set up a local development environment by downloading the required files, tools, and dependencies. I also repaired broken files in the repository to ensure the web application functioned correctly. Additionally, I utilized JPMorgan Chase's open-source library, Perspective, to create a live graph that visualizes a data feed, enabling traders to monitor it in a clear and visually appealing manner.
